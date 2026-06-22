@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [1146-snapshot-array](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1146-snapshot-array/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [1146-snapshot-array](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1146-snapshot-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0887-super-egg-drop](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0887-super-egg-drop/) | Hard |
+| [1146-snapshot-array](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1146-snapshot-array/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Greedy
@@ -123,4 +126,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1146-snapshot-array](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1146-snapshot-array/) | Medium |
 <!---LeetCode Topics End-->
