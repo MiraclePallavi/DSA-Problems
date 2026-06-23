@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1146-snapshot-array](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1146-snapshot-array/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1146-snapshot-array](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1146-snapshot-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0887-super-egg-drop](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0887-super-egg-drop/) | Hard |
 | [1344-angle-between-hands-of-a-clock](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -129,5 +132,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1146-snapshot-array](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1146-snapshot-array/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
