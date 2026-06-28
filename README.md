@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-snapshot-array](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1146-snapshot-array/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1642-furthest-building-you-can-reach](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Enumeration
