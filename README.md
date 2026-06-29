@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1871-jump-game-vii](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1871-jump-game-vii/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-furthest-building-you-can-reach](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
