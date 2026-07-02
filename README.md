@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0202-happy-number](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0202-happy-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1146-snapshot-array](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1146-snapshot-array/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0202-happy-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0477-total-hamming-distance](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0477-total-hamming-distance/) | Medium |
 | [0887-super-egg-drop](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0887-super-egg-drop/) | Hard |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0202-happy-number/) | Easy |
 | [0443-string-compression](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0443-string-compression/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
