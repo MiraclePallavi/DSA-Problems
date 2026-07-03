@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0887-super-egg-drop](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0887-super-egg-drop/) | Hard |
 | [1871-jump-game-vii](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1871-jump-game-vii/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3620-network-recovery-pathways](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0887-super-egg-drop](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0887-super-egg-drop/) | Hard |
 | [1146-snapshot-array](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1146-snapshot-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Greedy
@@ -174,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-furthest-building-you-can-reach](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,8 +200,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
