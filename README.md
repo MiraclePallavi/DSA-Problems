@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0887-super-egg-drop](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0887-super-egg-drop/) | Hard |
 | [1871-jump-game-vii](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1871-jump-game-vii/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-snapshot-array](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1146-snapshot-array/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2008-maximum-earnings-from-taxi](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -97,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0887-super-egg-drop](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0887-super-egg-drop/) | Hard |
 | [1146-snapshot-array](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1146-snapshot-array/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -116,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Enumeration
