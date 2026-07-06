@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0477-total-hamming-distance](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0477-total-hamming-distance/) | Medium |
 | [1146-snapshot-array](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1146-snapshot-array/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
