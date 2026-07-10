@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0887-super-egg-drop](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0887-super-egg-drop/) | Hard |
+| [1696-jump-game-vi](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1696-jump-game-vi/) | Medium |
 | [1871-jump-game-vii](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1871-jump-game-vii/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-snapshot-array](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1146-snapshot-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
+| [1696-jump-game-vi](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1696-jump-game-vi/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0630-course-schedule-iii](https://github.com/MiraclePallavi/DSA-Problems/tree/main/0630-course-schedule-iii/) | Hard |
 | [1642-furthest-building-you-can-reach](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
+| [1696-jump-game-vi](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1696-jump-game-vi/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/MiraclePallavi/DSA-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -244,4 +247,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MiraclePallavi/DSA-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1696-jump-game-vi](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1696-jump-game-vi/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1696-jump-game-vi](https://github.com/MiraclePallavi/DSA-Problems/tree/main/1696-jump-game-vi/) | Medium |
 <!---LeetCode Topics End-->
